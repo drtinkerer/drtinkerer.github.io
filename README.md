@@ -37,14 +37,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center"> 
-  <img src="https://github.com/prakharrathi25/github-stats/blob/master/generated/overview.svg" alt="Contributions" />
-  <img src="https://github.com/prakharrathi25/github-stats/blob/master/generated/languages.svg" alt="Languages of Prakhar" />  
-</p>
-
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharrathi25&show_icons=true&theme=dracula" /></p> -->
-
-
 ## Skills
 
 
