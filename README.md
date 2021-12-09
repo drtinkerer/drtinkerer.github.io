@@ -4,7 +4,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/bhushanrane29/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://prakharrathi25.netlify.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
+  <code><a href="https://drtinkerer.netlify.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
   <code><a href="eulersidentity2718@gmail.com" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
   <code><a href="https://twitter.com/eulers_identiti" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   
@@ -19,20 +19,14 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/drtinkerer/count.svg"/></p>
 
-<!--
-**prakharrathi25/prakharrathi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 💬 Ask me about the intersection of technology and finance
--->
 - 🔭 I’m currently working on DevOps and Big data analytics.
-- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi)!
 - 🌱 I’m currently learning about Kubernetes and Automated CI/CD deployments. 
 - 👯 I’m looking to collaborate on open source projects and teaching/mentoring the community on modern technologies.
 - 🤔 Like everyone else, I’m wondering on existential questions that have troubled humans ever since dawn of civilizations.
 - 📫 Reach me at: [eulers_identity2718@gmail.com](mailto:eulers_identity2718@gmail.com)
-- 📧 Check out my [portfolio website](https://prakharrathi25.netlify.app/) to get to know me better
+- 📧 Check out my [portfolio website](https://drtinkerer.netlify.app/) to get to know me better
 - ⚡ Fun fact: I am really into Video Gaming and virtual realities.
 
 <br/>
